@@ -12,7 +12,7 @@ var vite_config_default = defineConfig({
       assets: "/src/assets"
     }
   },
-  base: "/power-pulse-fs"
+  base: "/power-pulse-fe"
 });
 export {
   vite_config_default as default
